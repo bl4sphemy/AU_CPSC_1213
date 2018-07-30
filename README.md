@@ -1,2 +1,2 @@
 # AU_CPSC_1213
-Intro to Java - Auburn University
+Intro to Java - AU
